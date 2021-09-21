@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a first-year PhD student in the CSE department at UC San Diego in the [theory group](https://cstheory.ucsd.edu/home.html). I am very fortunate to be advised by Professors Arya Mazumdar and Sanjoy Dasgupta. I am passionate about theoretical computer science with particular interests in algorithms, machine learning theory, statistical recovery, and optimization. Prior to my PhD, I completed a master's in computer science, researching with Professor Alexandr Andoni. I also spent the summer before my PhD as an ML Research intern with the Core Machine Learning group at Goldman Sachs. 
+Hello! I am a first-year PhD student in the CSE department at UC San Diego in the [theory group](https://cstheory.ucsd.edu/home.html). I am very fortunate to be advised by Professors [Arya Mazumdar](http://mazumdar.ucsd.edu/) and [Sanjoy Dasgupta](https://cseweb.ucsd.edu/~dasgupta/). I am passionate about theoretical computer science with particular interests in algorithms, machine learning theory, statistical recovery, and optimization. Prior to my PhD, I completed a master's in computer science, researching with Professor Alexandr Andoni. I also spent the summer before my PhD as an ML Research intern with the Core Machine Learning group at Goldman Sachs. 
 
 ## Publications
 
