@@ -17,5 +17,6 @@ Hello! I am a first-year PhD student in the CSE department at UC San Diego in th
 
 ## Presentations
 
-1. (Learning to Hash Robustly, with Guarantees) Goldman Sachs Data Science and Machine Learning paper club 
-2. (Predictive Clustering Time Series for Finance) Goldman Sachs summer internship final presentation 
+1. (Learning to Hash Robustly, with Guarantees, upcoming 10/2021) UCSD Theory Seminar
+2. (Learning to Hash Robustly, with Guarantees, 07/2021) Goldman Sachs Data Science and Machine Learning paper club 
+3. (Predictive Clustering Time Series for Finance, 08/2021) Goldman Sachs summer internship final presentation 
