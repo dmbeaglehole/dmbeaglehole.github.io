@@ -14,7 +14,6 @@ Broadly, I'm excited about algorithms and the theory of machine learning, but re
 I like brazilian jiu jitsu, mexican food, and guitar :) 
 
 ## Publications
-(names are alphabetical per TCS tradition)
 
 1. [Learning to Hash Robustly, with Guarantees](https://arxiv.org/abs/2108.05433) \
    Alexandr Andoni, Daniel Beaglehole \
