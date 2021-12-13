@@ -17,7 +17,7 @@ I like brazilian jiu jitsu, mexican food, and guitar :)
 
 1. [Learning to Hash Robustly, with Guarantees](https://arxiv.org/abs/2108.05433) \
    Alexandr Andoni, Daniel Beaglehole \
-   In submission. [social media recognition](https://twitter.com/thomasahle/status/1428749917384761346)
+   In submission. [(twitter link)](https://twitter.com/thomasahle/status/1428749917384761346)
 
 ## Presentations
 
