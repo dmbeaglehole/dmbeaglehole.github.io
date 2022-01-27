@@ -19,6 +19,7 @@ I like brazilian jiu jitsu, mexican food, and guitar :)
 ## Publications
 
 1. [An Efficient Approximation Algorithm for the Colonel Blotto Game](https://arxiv.org/abs/2201.10758) \
+   Daniel Beaglehole \
    In submission.
 2. [Learning to Hash Robustly, with Guarantees](https://arxiv.org/abs/2108.05433) \
    Alexandr Andoni, Daniel Beaglehole \
