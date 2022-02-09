@@ -11,7 +11,7 @@ Hello! I am a first-year PhD student in the CSE department at UC San Diego in th
 
 Broadly, I'm excited about algorithms and the theory of machine learning, but recently I've focused on designing practical algorithms for data scientific problems with provable guarantees.
 
-Feel free to email me at dbeaglehole@ucsd.edu.
+Feel free to email me at dbeaglehole {at} ucsd {dot} edu
 
 I like brazilian jiu jitsu, mexican food, and guitar :) 
 
