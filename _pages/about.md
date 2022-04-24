@@ -27,6 +27,6 @@ I like brazilian jiu jitsu, mexican food, and guitar :)
 
 ## Presentations
 
-1. (Learning to Hash Robustly, with Guarantees, upcoming 10/2021) UCSD Theory Seminar
+1. (Learning to Hash Robustly, with Guarantees, 10/2021) UCSD Theory Seminar
 2. (Learning to Hash Robustly, with Guarantees, 07/2021) Goldman Sachs Data Science and Machine Learning paper club 
 3. (Predictive Clustering Time Series for Finance, 08/2021) Goldman Sachs summer internship final presentation 
