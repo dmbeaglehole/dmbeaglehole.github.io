@@ -24,7 +24,7 @@ I like brazilian jiu jitsu, mexican food, and guitar :)
 2. [An Efficient Approximation Algorithm for the Colonel Blotto Game](https://arxiv.org/abs/2201.10758) \
    Daniel Beaglehole \
    In submission. [(twitter link)](https://twitter.com/dbeagleholeCS/status/1486514165355143170)
-3. [Learning to Hash Robustly, with Guarantees](https://arxiv.org/abs/2108.05433) \
+3. [Learning to Hash Robustly, Guaranteed](https://arxiv.org/abs/2108.05433) \
    Alexandr Andoni, Daniel Beaglehole \
    <i>International Conference on Machine Learning (ICML 2022)</i> \
    [(twitter link)](https://twitter.com/thomasahle/status/1428749917384761346) [(presented by Prof. Andoni for NeurIPS'21 ANN competition)](https://big-ann-benchmarks.com/)
