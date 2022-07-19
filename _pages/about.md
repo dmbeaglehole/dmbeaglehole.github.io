@@ -21,8 +21,7 @@ I like brazilian jiu jitsu, mexican food, and guitar :)
 1. [Kernel Ridgeless Regression is Inconsistent in Low Dimensions](https://arxiv.org/abs/2205.13525) \
    Daniel Beaglehole, Mikhail Belkin, Parthe Pandit \
    In submission.
-2. [Sampling Equilibria: Fast No-Regret Learning in Structured Games](Sampling Equilibria: Fast No-Regret Learning in Structured Games
-) \
+2. [Sampling Equilibria: Fast No-Regret Learning in Structured Games](https://arxiv.org/abs/2201.10758)
    Daniel Beaglehole, Max Hopkins, Daniel Kane, Sihan Liu, Shachar Lovett \
    In submission. 
 3. [An Efficient Approximation Algorithm for the Colonel Blotto Game](https://arxiv.org/abs/2201.10758v6) \
