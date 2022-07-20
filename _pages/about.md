@@ -23,7 +23,7 @@ I like brazilian jiu jitsu, mexican food, and guitar :)
    In submission.
 2. [Sampling Equilibria: Fast No-Regret Learning in Structured Games](https://arxiv.org/abs/2201.10758) \
    Daniel Beaglehole, Max Hopkins, Daniel Kane, Sihan Liu, Shachar Lovett \
-   In submission. 
+   In submission. [(twitter link)](https://twitter.com/MHop_Theory/status/1549498127316529153?s=20&t=JiLCC6ZaHli8rUhPP8ZLEA)
 3. [An Efficient Approximation Algorithm for the Colonel Blotto Game](https://arxiv.org/abs/2201.10758v6) \
    Daniel Beaglehole \
    (Merged with above). [(twitter link)](https://twitter.com/dbeagleholeCS/status/1486514165355143170)
