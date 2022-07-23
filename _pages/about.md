@@ -11,7 +11,7 @@ Hello! I am a second-year PhD student in the CSE department at UC San Diego in t
 
 I am excited about:  
   1.) Designing algorithms that are powerful and practical \
-  2.) Optimization and generalization in deep learning \
+  2.) Optimization and generalization in deep learning
 
 Feel free to email me: dbeaglehole {at} ucsd {dot} edu
 
