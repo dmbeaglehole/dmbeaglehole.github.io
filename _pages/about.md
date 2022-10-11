@@ -11,7 +11,8 @@ Hello! I am a second-year PhD student in the CSE department at UC San Diego in t
 
 Broadly, I am excited about the theory of machine learning and computer science. I am especially interested in:  
   1.) Designing algorithms that are powerful and implementable \
-  2.) Understanding feature-learning in (possibly deep) neural networks
+  2.) Understanding feature-learning in neural networks
+  3.) Kernels
 
 Feel free to email me: dbeaglehole {at} ucsd {dot} edu
 
