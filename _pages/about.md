@@ -22,16 +22,18 @@ I like brazilian jiu jitsu, mexican food, and guitar :)
 
 1. [Kernel Ridgeless Regression is Inconsistent in Low Dimensions](https://arxiv.org/abs/2205.13525) \
    Daniel Beaglehole, Mikhail Belkin, Parthe Pandit \
-   In submission.
-3. [An Efficient Approximation Algorithm for the Colonel Blotto Game](https://arxiv.org/abs/2201.10758v6) \
+   Accepted to DeepMath 2022. In submission to a journal.
+2. [An Efficient Approximation Algorithm for the Colonel Blotto Game](https://arxiv.org/abs/2201.10758v6) \
    Daniel Beaglehole \
-   (Merged with above). [(twitter link)](https://twitter.com/dbeagleholeCS/status/1486514165355143170)
+   Merged with [Sampling Equilibria: Fast No-Regret Learning in Structured Games](https://arxiv.org/abs/2201.10758)\
+   [(twitter link)](https://twitter.com/dbeagleholeCS/status/1486514165355143170)
 
 ## Publications
 1. [Sampling Equilibria: Fast No-Regret Learning in Structured Games](https://arxiv.org/abs/2201.10758) \
    Daniel Beaglehole, Max Hopkins, Daniel Kane, Sihan Liu, Shachar Lovett \
    <i> Symposium on Discrete Algorithms (SODA 2023)</i> \ 
    [(twitter link)](https://twitter.com/MHop_Theory/status/1549498127316529153?s=20&t=JiLCC6ZaHli8rUhPP8ZLEA)
+   
 2. [Learning to Hash Robustly, Guaranteed](https://arxiv.org/abs/2108.05433) \
    Alexandr Andoni, Daniel Beaglehole \
    <i>International Conference on Machine Learning (ICML 2022)</i> \
