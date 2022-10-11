@@ -25,7 +25,7 @@ I like brazilian jiu jitsu, mexican food, and guitar :)
    Accepted to DeepMath 2022. In submission to a journal.
 2. [An Efficient Approximation Algorithm for the Colonel Blotto Game](https://arxiv.org/abs/2201.10758v6) \
    Daniel Beaglehole \
-   Merged with [Sampling Equilibria: Fast No-Regret Learning in Structured Games](https://arxiv.org/abs/2201.10758)\
+   Merged with [Sampling Equilibria: Fast No-Regret Learning in Structured Games](https://arxiv.org/abs/2201.10758).\
    [(twitter link)](https://twitter.com/dbeagleholeCS/status/1486514165355143170)
 
 ## Publications
