@@ -30,7 +30,7 @@ I like brazilian jiu jitsu, mexican food, and guitar :)
 ## Publications
 1. [Sampling Equilibria: Fast No-Regret Learning in Structured Games](https://arxiv.org/abs/2201.10758) \
    Daniel Beaglehole, Max Hopkins, Daniel Kane, Sihan Liu, Shachar Lovett \
-   <i> Symposium on Discrete Algorithms (SODA 2023)</i> [(twitter link)](https://twitter.com/MHop_Theory/status/1549498127316529153?s=20&t=JiLCC6ZaHli8rUhPP8ZLEA)
+   <i> Symposium on Discrete Algorithms (SODA 2023)</i> \ [(twitter link)](https://twitter.com/MHop_Theory/status/1549498127316529153?s=20&t=JiLCC6ZaHli8rUhPP8ZLEA)
 2. [Learning to Hash Robustly, Guaranteed](https://arxiv.org/abs/2108.05433) \
    Alexandr Andoni, Daniel Beaglehole \
    <i>International Conference on Machine Learning (ICML 2022)</i> \
