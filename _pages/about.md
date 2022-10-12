@@ -32,7 +32,7 @@ I like brazilian jiu jitsu, mexican food, and guitar :)
    [(twitter link)](https://twitter.com/MHop_Theory/status/1549498127316529153?s=20&t=JiLCC6ZaHli8rUhPP8ZLEA)
    - This began as an earlier version:\
     [An Efficient Approximation Algorithm for the Colonel Blotto Game](https://arxiv.org/abs/2201.10758v6)\
-    Daniel Beaglehole.
+    Daniel Beaglehole
    
 2. [Learning to Hash Robustly, Guaranteed](https://arxiv.org/abs/2108.05433) \
    Alexandr Andoni, Daniel Beaglehole \
