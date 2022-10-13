@@ -18,15 +18,14 @@ Feel free to email me: dbeaglehole {at} ucsd {dot} edu
 
 I like brazilian jiu jitsu, mexican food, and guitar :) 
 
-
-## Pre-prints
+### Pre-prints
 
 1. [Kernel Ridgeless Regression is Inconsistent in Low Dimensions](https://arxiv.org/abs/2205.13525) \
    Daniel Beaglehole, Mikhail Belkin, Parthe Pandit \
    <i> Conference on the Mathematical Theory of Deep Neural Networks (DeepMath 2022)</i>\
    In submission to a journal.
 
-## Publications
+### Publications
 1. [Sampling Equilibria: Fast No-Regret Learning in Structured Games](https://arxiv.org/abs/2201.10758) \
    Daniel Beaglehole, Max Hopkins, Daniel Kane, Sihan Liu, Shachar Lovett \
    <i>Symposium on Discrete Algorithms (SODA 2023)</i> \
