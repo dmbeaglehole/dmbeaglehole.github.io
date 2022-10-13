@@ -23,7 +23,8 @@ I like brazilian jiu jitsu, mexican food, and guitar :)
 
 1. [Kernel Ridgeless Regression is Inconsistent in Low Dimensions](https://arxiv.org/abs/2205.13525) \
    Daniel Beaglehole, Mikhail Belkin, Parthe Pandit \
-   Accepted to DeepMath 2022. In submission to a journal.
+   <i> Conference on the Mathematical Theory of Deep Neural Networks (DeepMath 2022)</i>\
+   In submission to a journal.
 
 ## Publications
 1. [Sampling Equilibria: Fast No-Regret Learning in Structured Games](https://arxiv.org/abs/2201.10758) \
