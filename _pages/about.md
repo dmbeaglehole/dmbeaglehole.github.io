@@ -17,7 +17,7 @@ Broadly, I am excited about the theory of machine learning and computer science.
 Feel free to email me: dbeaglehole {at} ucsd {dot} edu
 
 
-Authorship is alphabetical unless otherwise indicated (* = Equal contribution).
+Authorship is alphabetical unless otherwise indicated (\* = Equal contribution).
 
 ### Pre-prints
 
