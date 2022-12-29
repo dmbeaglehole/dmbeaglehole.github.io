@@ -11,7 +11,7 @@ Hello! I am a second-year PhD student in the CSE department at UC San Diego in t
 
 Broadly, I am excited about the theory of machine learning and computer science. I am especially interested in:  
   1.) Designing algorithms that are powerful and practical\
-  2.) Label dependent kernels
+  2.) Label-dependent kernels\
   3.) Accelerating kernel computation
 
 Feel free to email me: dbeaglehole {at} ucsd {dot} edu
@@ -20,7 +20,10 @@ I like brazilian jiu jitsu, mexican food, and guitar :)
 
 ### Pre-prints
 
-1. [Kernel Ridgeless Regression is Inconsistent in Low Dimensions](https://arxiv.org/abs/2205.13525) \
+1. [Feature learning in neural networks and kernel machines that recursively learn features](https://arxiv.org/abs/2212.13881) \
+   Adityanarayanan Radhakrishnan*, Daniel Beaglehole*, Parthe Pandit, Mikhail Belkin \
+   
+2. [Kernel Ridgeless Regression is Inconsistent in Low Dimensions](https://arxiv.org/abs/2205.13525) \
    Daniel Beaglehole, Mikhail Belkin, Parthe Pandit \
    <i> Conference on the Mathematical Theory of Deep Neural Networks (DeepMath 2022)</i>\
    In submission to a journal.
