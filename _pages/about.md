@@ -22,7 +22,8 @@ Authorship is alphabetical unless otherwise indicated (\* = equal contribution).
 ### Pre-prints
 
 1. [Feature learning in neural networks and kernel machines that recursively learn features](https://arxiv.org/abs/2212.13881) \
-   Adityanarayanan Radhakrishnan\*, Daniel Beaglehole\*, Parthe Pandit, Mikhail Belkin
+   Adityanarayanan Radhakrishnan\*, Daniel Beaglehole\*, Parthe Pandit, Mikhail Belkin\
+   [(twitter link)](https://twitter.com/dbeagleholeCS/status/1627819164906975232?s=20)
    
 2. [Kernel Ridgeless Regression is Inconsistent in Low Dimensions](https://arxiv.org/abs/2205.13525) \
    Daniel Beaglehole, Mikhail Belkin, Parthe Pandit \
