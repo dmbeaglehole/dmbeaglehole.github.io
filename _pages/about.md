@@ -46,6 +46,7 @@ Authorship is alphabetical unless otherwise indicated (\* = equal contribution).
 
 ## Presentations
 
-1. (Learning to Hash Robustly, with Guarantees, 10/2021) UCSD Theory Seminar
-2. (Learning to Hash Robustly, with Guarantees, 07/2021) Goldman Sachs Data Science and Machine Learning paper club 
-3. (Predictive Clustering Time Series for Finance, 08/2021) Goldman Sachs summer internship final presentation 
+1. Google Brain, (Feature learning in neural networks and kernel machines that recursively learn features, 4/2023) 
+2. UCSD, Theory Seminar, (Learning to Hash Robustly, with Guarantees, 10/2021)
+3. Goldman Sachs, Data Science and Machine Learning paper club, (Learning to Hash Robustly, with Guarantees, 07/2021)  
+4. Goldman Sachs, summer internship final presentation, (Predictive Clustering Time Series for Finance, 08/2021)
