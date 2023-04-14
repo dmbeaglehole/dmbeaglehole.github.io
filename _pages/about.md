@@ -46,8 +46,8 @@ Authorship is alphabetical unless otherwise indicated (\* = equal contribution).
 
 ## Presentations
 
-1. Google Brain, (Feature learning in neural networks and kernel machines that recursively learn features, 3/2023)
-2. Yale, Inference, Information, and Decision Systems Group, (Feature learning in neural networks and kernel machines that recursively learn features, 3/2023) 
-3. UCSD, Theory Seminar, (Learning to Hash Robustly, with Guarantees, 10/2021)
-4. Goldman Sachs, Data Science and Machine Learning paper club, (Learning to Hash Robustly, with Guarantees, 07/2021)  
-5. Goldman Sachs, summer internship final presentation, (Predictive Clustering Time Series for Finance, 08/2021)
+1. Google Brain: (Feature learning in neural networks and kernel machines that recursively learn features, 3/2023)
+2. Yale University: Inference, Information, and Decision Systems Group, (Feature learning in neural networks and kernel machines that recursively learn features, 3/2023) 
+3. UCSD: Theory Seminar, (Learning to Hash Robustly, with Guarantees, 10/2021)
+4. Goldman Sachs: Data Science and Machine Learning paper club, (Learning to Hash Robustly, with Guarantees, 07/2021)  
+5. Goldman Sachs: Summer internship final presentation, (Predictive Clustering Time Series for Finance, 08/2021)
