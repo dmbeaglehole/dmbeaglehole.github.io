@@ -25,13 +25,13 @@ Authorship is alphabetical unless otherwise indicated (\* = equal contribution).
    Adityanarayanan Radhakrishnan\*, Daniel Beaglehole\*, Parthe Pandit, Mikhail Belkin\
    [(twitter link)](https://twitter.com/dbeagleholeCS/status/1627819164906975232?s=20)
    
-2. [On the Inconsistency of Kernel Ridgeless Regression in Fixed Dimensions](https://arxiv.org/abs/2205.13525) \
-   Daniel Beaglehole, Mikhail Belkin, Parthe Pandit \
-   <i> Conference on the Mathematical Theory of Deep Neural Networks (DeepMath 2022)</i>\
-   In submission to a journal.
 
 ### Publications
-1. [Sampling Equilibria: Fast No-Regret Learning in Structured Games](https://arxiv.org/abs/2201.10758) \
+1. [On the Inconsistency of Kernel Ridgeless Regression in Fixed Dimensions](https://arxiv.org/abs/2205.13525) \
+   Daniel Beaglehole, Mikhail Belkin, Parthe Pandit \
+   <i> SIAM Journal on Mathematics of Data Science (SIMODS) </i>\
+   <i> Conference on the Mathematical Theory of Deep Neural Networks (DeepMath 2022)</i>\
+2. [Sampling Equilibria: Fast No-Regret Learning in Structured Games](https://arxiv.org/abs/2201.10758) \
    Daniel Beaglehole, Max Hopkins, Daniel Kane, Sihan Liu, Shachar Lovett \
    <i>Symposium on Discrete Algorithms (SODA 2023)</i> \
    [(twitter link)](https://twitter.com/MHop_Theory/status/1549498127316529153?s=20&t=JiLCC6ZaHli8rUhPP8ZLEA)
