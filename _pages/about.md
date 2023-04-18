@@ -29,7 +29,7 @@ Authorship is alphabetical unless otherwise indicated (\* = equal contribution).
 ### Publications
 1. [On the Inconsistency of Kernel Ridgeless Regression in Fixed Dimensions](https://arxiv.org/abs/2205.13525) \
    Daniel Beaglehole, Mikhail Belkin, Parthe Pandit \
-   <i> SIAM Journal on Mathematics of Data Science (SIMODS) </i>\
+   <i> SIAM Journal on Mathematics of Data Science (SIMODS) </i>,\
    <i> Conference on the Mathematical Theory of Deep Neural Networks (DeepMath 2022)</i>
    
 2. [Sampling Equilibria: Fast No-Regret Learning in Structured Games](https://arxiv.org/abs/2201.10758) \
