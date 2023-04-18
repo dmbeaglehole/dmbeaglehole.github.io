@@ -17,7 +17,7 @@ Broadly, I am excited about developing theory-driven machine learning and algori
 Feel free to email me: dbeaglehole {at} ucsd {dot} edu
 
 
-Authorship is alphabetical unless otherwise indicated (\* = equal contribution).
+(\* = equal contribution).
 
 ### Pre-prints
 
@@ -33,7 +33,7 @@ Authorship is alphabetical unless otherwise indicated (\* = equal contribution).
    <i> Conference on the Mathematical Theory of Deep Neural Networks (DeepMath 2022)</i>
    
 2. [Sampling Equilibria: Fast No-Regret Learning in Structured Games](https://arxiv.org/abs/2201.10758) \
-   Daniel Beaglehole, Max Hopkins, Daniel Kane, Sihan Liu, Shachar Lovett \
+   Daniel Beaglehole\*, Max Hopkins\*, Daniel Kane\*, Sihan Liu\*, Shachar Lovett\* \
    <i>Symposium on Discrete Algorithms (SODA 2023)</i> \
    [(twitter link)](https://twitter.com/MHop_Theory/status/1549498127316529153?s=20&t=JiLCC6ZaHli8rUhPP8ZLEA)
    - This began as an earlier version:\
@@ -41,7 +41,7 @@ Authorship is alphabetical unless otherwise indicated (\* = equal contribution).
     Daniel Beaglehole
    
 3. [Learning to Hash Robustly, Guaranteed](https://arxiv.org/abs/2108.05433) \
-   Alexandr Andoni, Daniel Beaglehole \
+   Alexandr Andoni\*, Daniel Beaglehole\* \
    <i>International Conference on Machine Learning (ICML 2022)</i> \
    [(twitter link)](https://twitter.com/thomasahle/status/1428749917384761346) [(presented by Prof. Andoni for NeurIPS'21 ANN competition)](https://big-ann-benchmarks.com/)
 
