@@ -17,7 +17,7 @@ Broadly, I am excited about developing theory-driven machine learning and algori
 Feel free to email me: dbeaglehole {at} ucsd {dot} edu
 
 
-(\* = equal contribution).
+(\* denotes equal contribution).
 
 ### Pre-prints
 
