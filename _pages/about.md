@@ -21,7 +21,7 @@ Feel free to email me: dbeaglehole {at} ucsd {dot} edu
 
 ### Pre-prints
 
-1. [Feature learning in neural networks and kernel machines that recursively learn features](https://arxiv.org/abs/2212.13881) \
+1. [Mechanism of feature learning in deep fully connected networks and kernel machines that recursively learn features](https://arxiv.org/abs/2212.13881) \
    Adityanarayanan Radhakrishnan\*, Daniel Beaglehole\*, Parthe Pandit, Mikhail Belkin\
    [(twitter link)](https://twitter.com/dbeagleholeCS/status/1627819164906975232?s=20)
    
