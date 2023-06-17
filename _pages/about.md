@@ -12,7 +12,9 @@ Hello! I am a second-year PhD student in the CSE department at UC San Diego in t
 Broadly, I am excited about developing theory-driven machine learning and algorithmic methods. I am especially interested in:  
   1.) Feature learning\
   2.) Data-dependent kernels\
-  3.) Accelerating kernel/random features computation
+  3.) Deep learning theory\
+  4.) Accelerating kernel/random features computation
+  
 
 Feel free to email me: dbeaglehole {at} ucsd {dot} edu
 
