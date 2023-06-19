@@ -7,7 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a second-year PhD student in the CSE department at UC San Diego in the [machine learning](https://datascience.ucsd.edu/research/faculty-research-areas/artificial-intelligence-and-machine-learning/) and [theory](https://cstheory.ucsd.edu/home.html) groups. I am very fortunate to be advised by Professors [Mikhail Belkin](http://misha.belkin-wang.org/) and [Sanjoy Dasgupta](https://cseweb.ucsd.edu/~dasgupta/). Prior to my PhD, I completed a master's in computer science at Columbia, where I researched under the excellent mentorship of Professor [Alexandr Andoni](http://www.cs.columbia.edu/~andoni/). I also spent the summer before my PhD as an ML Research intern with the Core Machine Learning group at [Goldman Sachs](https://www.goldmansachs.com/careers/divisions/engineering/). My undergraduate degree is in mathematics with a minor in chemistry from UChicago. 
+Hello! I am a second-year PhD student in the CSE department at UC San Diego in the [machine learning](https://datascience.ucsd.edu/research/faculty-research-areas/artificial-intelligence-and-machine-learning/) and [theory](https://cstheory.ucsd.edu/home.html) groups. I am very fortunate to be advised by Professor [Mikhail Belkin](http://misha.belkin-wang.org/) and [Sanjoy Dasgupta](https://cseweb.ucsd.edu/~dasgupta/). Prior to my PhD, I completed a master's in computer science at Columbia, where I researched under the excellent mentorship of Professor [Alexandr Andoni](http://www.cs.columbia.edu/~andoni/). 
+
+
+I am currently a Student Researcher at [Google Brain](https://research.google/teams/brain/) working on feature learning. I also spent the summer before my PhD as an ML Research intern with the Core Machine Learning group at [Goldman Sachs](https://www.goldmansachs.com/careers/divisions/engineering/). My undergraduate degree is in mathematics with a minor in chemistry from UChicago. 
 
 Broadly, I am excited about developing theory-driven machine learning and algorithmic methods. I am especially interested in:  
   1.) Feature learning\
