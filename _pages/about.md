@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a second-year PhD student in the CSE department at UC San Diego in the [machine learning](https://datascience.ucsd.edu/research/faculty-research-areas/artificial-intelligence-and-machine-learning/) and [theory](https://cstheory.ucsd.edu/home.html) groups. I am very fortunate to be advised by Professor [Mikhail Belkin](http://misha.belkin-wang.org/) and [Sanjoy Dasgupta](https://cseweb.ucsd.edu/~dasgupta/). Prior to my PhD, I completed a master's in computer science at Columbia, where I researched under the excellent mentorship of Professor [Alexandr Andoni](http://www.cs.columbia.edu/~andoni/). 
+Hello! I am a third-year PhD student in the CSE department at UC San Diego in the [machine learning](https://datascience.ucsd.edu/research/faculty-research-areas/artificial-intelligence-and-machine-learning/) and [theory](https://cstheory.ucsd.edu/home.html) groups. I am very fortunate to be advised by Professor [Mikhail Belkin](http://misha.belkin-wang.org/) and [Sanjoy Dasgupta](https://cseweb.ucsd.edu/~dasgupta/). Prior to my PhD, I completed a master's in computer science at Columbia, where I researched under the excellent mentorship of Professor [Alexandr Andoni](http://www.cs.columbia.edu/~andoni/). 
 
 
 I am currently a Student Researcher at [Google Brain](https://research.google/teams/brain/) working on feature learning. I also spent the summer before my PhD as an ML Research intern with the Core Machine Learning group at [Goldman Sachs](https://www.goldmansachs.com/careers/divisions/engineering/). My undergraduate degree is in mathematics with a minor in chemistry from UChicago. 
@@ -26,7 +26,9 @@ Feel free to email me: dbeaglehole {at} ucsd {dot} edu
 
 ### Pre-prints
 
-1. [Mechanism of feature learning in deep fully connected networks and kernel machines that recursively learn features](https://arxiv.org/abs/2212.13881) \
+1. [Mechanism of feature learning in convolutional neural networks](https://arxiv.org/pdf/2309.00570v1.pdf) \
+   Daniel Beaglehole\*, Adityanarayanan Radhakrishnan\*, Parthe Pandit, Mikhail Belkin\
+2. [Mechanism of feature learning in deep fully connected networks and kernel machines that recursively learn features](https://arxiv.org/abs/2212.13881) \
    Adityanarayanan Radhakrishnan\*, Daniel Beaglehole\*, Parthe Pandit, Mikhail Belkin\
    [(twitter link)](https://twitter.com/dbeagleholeCS/status/1627819164906975232?s=20)
    
