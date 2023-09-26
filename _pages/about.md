@@ -10,15 +10,14 @@ redirect_from:
 Hello! I am a third-year PhD student in the CSE department at UC San Diego in the [machine learning](https://datascience.ucsd.edu/research/faculty-research-areas/artificial-intelligence-and-machine-learning/) and [theory](https://cstheory.ucsd.edu/home.html) groups. I am very fortunate to be advised by Professor [Mikhail Belkin](http://misha.belkin-wang.org/) and [Sanjoy Dasgupta](https://cseweb.ucsd.edu/~dasgupta/). Prior to my PhD, I completed an MS in computer science at Columbia, where I researched under the excellent mentorship of Professor [Alexandr Andoni](http://www.cs.columbia.edu/~andoni/). 
 
 
-I am currently a Student Researcher at [Google Brain](https://research.google/teams/brain/) working on feature learning. I also spent the summer before my PhD as an ML Research intern with the Core Machine Learning group at [Goldman Sachs](https://www.goldmansachs.com/careers/divisions/engineering/). 
+I am currently a Student Researcher at [Google Brain](https://research.google/teams/brain/) working on feature learning. I was also an ML Research intern at [Goldman Sachs](https://www.goldmansachs.com/careers/divisions/engineering/). 
 
-I am supported by the ARCS Foundation San Diego Fellowship.
+I am supported by the [ARCS Foundation San Diego Fellowship](https://san-diego.arcsfoundation.org).
 
 Broadly, I am excited about developing theory-driven machine learning and algorithmic methods. I am especially interested in:  
   1.) Feature learning\
   2.) Deep learning theory\
-  3.) Data-dependent kernels\
-  
+  3.) Data-dependent kernels
 
 Feel free to email me: dbeaglehole {at} ucsd {dot} edu
 
