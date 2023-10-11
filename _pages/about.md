@@ -12,7 +12,7 @@ Hello! I am a third-year PhD student in the CSE department at UC San Diego in th
 
 I am currently a Student Researcher at [Google Brain](https://research.google/teams/brain/) working on feature learning. I was also an ML Research intern at [Goldman Sachs](https://www.goldmansachs.com/careers/divisions/engineering/). 
 
-I am supported by the [ARCS Foundation San Diego Fellowship](https://san-diego.arcsfoundation.org).
+I am supported by the [ARCS Foundation Fellowship](https://san-diego.arcsfoundation.org).
 
 Broadly, I am excited about developing theory-driven machine learning and algorithmic methods. I am especially interested in:  
   1.) Feature learning\
