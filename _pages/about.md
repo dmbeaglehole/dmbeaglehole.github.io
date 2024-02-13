@@ -25,7 +25,6 @@ Feel free to email me: dbeaglehole {at} ucsd {dot} edu
 (\* denotes equal contribution).
 
 ### Pre-prints
-
 1. [Gradient descent induces alignment between weights and the empirical NTK for deep non-linear networks](https://arxiv.org/abs/2402.05271) \
    Daniel Beaglehole, Ioannis Mitliagkas, Atish Agarwala
 2. [Mechanism of feature learning in convolutional neural networks](https://arxiv.org/pdf/2309.00570v1.pdf) \
