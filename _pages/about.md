@@ -27,8 +27,10 @@ Feel free to email me: dbeaglehole {at} ucsd {dot} edu
 ### Pre-prints
 1. [Gradient descent induces alignment between weights and the empirical NTK for deep non-linear networks](https://arxiv.org/abs/2402.05271) \
    Daniel Beaglehole, Ioannis Mitliagkas, Atish Agarwala
+   
 2. [Mechanism of feature learning in convolutional neural networks](https://arxiv.org/pdf/2309.00570v1.pdf) \
    Daniel Beaglehole\*, Adityanarayanan Radhakrishnan\*, Parthe Pandit, Mikhail Belkin
+   
 3. [Mechanism of feature learning in deep fully connected networks and kernel machines that recursively learn features](https://arxiv.org/abs/2212.13881) \
    Adityanarayanan Radhakrishnan\*, Daniel Beaglehole\*, Parthe Pandit, Mikhail Belkin\
    [(twitter link)](https://twitter.com/dbeagleholeCS/status/1627819164906975232?s=20)
