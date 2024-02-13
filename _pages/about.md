@@ -26,11 +26,9 @@ Feel free to email me: dbeaglehole {at} ucsd {dot} edu
 
 ### Pre-prints
 1. [Gradient descent induces alignment between weights and the empirical NTK for deep non-linear networks](https://arxiv.org/abs/2402.05271) \
-   Daniel Beaglehole, Ioannis Mitliagkas, Atish Agarwala
-   
+   Daniel Beaglehole, Ioannis Mitliagkas, Atish Agarwala   
 2. [Mechanism of feature learning in convolutional neural networks](https://arxiv.org/pdf/2309.00570v1.pdf) \
    Daniel Beaglehole\*, Adityanarayanan Radhakrishnan\*, Parthe Pandit, Mikhail Belkin
-   
 3. [Mechanism of feature learning in deep fully connected networks and kernel machines that recursively learn features](https://arxiv.org/abs/2212.13881) \
    Adityanarayanan Radhakrishnan\*, Daniel Beaglehole\*, Parthe Pandit, Mikhail Belkin\
    [(twitter link)](https://twitter.com/dbeagleholeCS/status/1627819164906975232?s=20)
@@ -41,7 +39,6 @@ Feel free to email me: dbeaglehole {at} ucsd {dot} edu
    Daniel Beaglehole, Mikhail Belkin, Parthe Pandit \
    <i> SIAM Journal on Mathematics of Data Science (SIMODS) </i>,\
    <i> Conference on the Mathematical Theory of Deep Neural Networks (DeepMath 2022)</i>
-   
 2. [Sampling Equilibria: Fast No-Regret Learning in Structured Games](https://arxiv.org/abs/2201.10758) \
    Daniel Beaglehole\*, Max Hopkins\*, Daniel Kane\*, Sihan Liu\*, Shachar Lovett\* \
    <i>Symposium on Discrete Algorithms (SODA 2023)</i> \
@@ -49,7 +46,6 @@ Feel free to email me: dbeaglehole {at} ucsd {dot} edu
    - This began as an earlier version:\
     [An Efficient Approximation Algorithm for the Colonel Blotto Game](https://arxiv.org/abs/2201.10758v6)\
     Daniel Beaglehole
-   
 3. [Learning to Hash Robustly, Guaranteed](https://arxiv.org/abs/2108.05433) \
    Alexandr Andoni\*, Daniel Beaglehole\* \
    <i>International Conference on Machine Learning (ICML 2022)</i> \
