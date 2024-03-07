@@ -5,6 +5,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
 ---
 
 Hello! I am a third-year PhD student in the CSE department at UC San Diego in the [machine learning](https://datascience.ucsd.edu/research/faculty-research-areas/artificial-intelligence-and-machine-learning/) and [theory](https://cstheory.ucsd.edu/home.html) groups. I am very fortunate to be advised by Professor [Mikhail Belkin](http://misha.belkin-wang.org/). Prior to my PhD, I completed an MS in computer science at Columbia, where I researched under the excellent mentorship of Professor [Alexandr Andoni](http://www.cs.columbia.edu/~andoni/). 
@@ -37,18 +38,21 @@ Feel free to email me: dbeaglehole {at} ucsd {dot} edu
    
 
 ### Publications
-1. [On the Inconsistency of Kernel Ridgeless Regression in Fixed Dimensions](https://arxiv.org/abs/2205.13525) \
+1. [Mechanism for feature learning in neural networks and backpropagation-free machine learning models](https://www.science.org/doi/10.1126/science.adi5639) \
+   Adityanarayanan Radhakrishnan\*, Daniel Beaglehole\*, Parthe Pandit, Mikhail Belkin\
+   <i> - Science </i>
+3. [On the Inconsistency of Kernel Ridgeless Regression in Fixed Dimensions](https://arxiv.org/abs/2205.13525) \
    Daniel Beaglehole, Mikhail Belkin, Parthe Pandit \
    <i> SIAM Journal on Mathematics of Data Science (SIMODS) </i>,\
    <i> Conference on the Mathematical Theory of Deep Neural Networks (DeepMath 2022)</i>
-2. [Sampling Equilibria: Fast No-Regret Learning in Structured Games](https://arxiv.org/abs/2201.10758) \
+4. [Sampling Equilibria: Fast No-Regret Learning in Structured Games](https://arxiv.org/abs/2201.10758) \
    Daniel Beaglehole\*, Max Hopkins\*, Daniel Kane\*, Sihan Liu\*, Shachar Lovett\* \
    <i>Symposium on Discrete Algorithms (SODA 2023)</i> \
    [(twitter link)](https://twitter.com/MHop_Theory/status/1549498127316529153?s=20&t=JiLCC6ZaHli8rUhPP8ZLEA)
    - This began as an earlier version:\
     [An Efficient Approximation Algorithm for the Colonel Blotto Game](https://arxiv.org/abs/2201.10758v6)\
     Daniel Beaglehole
-3. [Learning to Hash Robustly, Guaranteed](https://arxiv.org/abs/2108.05433) \
+5. [Learning to Hash Robustly, Guaranteed](https://arxiv.org/abs/2108.05433) \
    Alexandr Andoni\*, Daniel Beaglehole\* \
    <i>International Conference on Machine Learning (ICML 2022)</i> \
    [(twitter link)](https://twitter.com/thomasahle/status/1428749917384761346) [(presented by Prof. Andoni for NeurIPS'21 ANN competition)](https://big-ann-benchmarks.com/)
