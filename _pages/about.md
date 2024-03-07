@@ -39,7 +39,7 @@ Feel free to email me: dbeaglehole {at} ucsd {dot} edu
 ### Publications
 1. [Mechanism for feature learning in neural networks and backpropagation-free machine learning models](https://www.science.org/doi/10.1126/science.adi5639) \
    Adityanarayanan Radhakrishnan\*, Daniel Beaglehole\*, Parthe Pandit, Mikhail Belkin\
-   ${\textsf{\color{red} Science}}$
+   ${\textit{\textsf{\color{red} Science}}}$
 3. [On the Inconsistency of Kernel Ridgeless Regression in Fixed Dimensions](https://arxiv.org/abs/2205.13525) \
    Daniel Beaglehole, Mikhail Belkin, Parthe Pandit \
    <i> SIAM Journal on Mathematics of Data Science (SIMODS) </i>,\
