@@ -27,7 +27,7 @@ Feel free to email me: dbeaglehole {at} ucsd {dot} edu
 ### Pre-prints
 1. [Average gradient outer product as a mechanism for deep neural collapse](https://arxiv.org/abs/2402.13728) \
    Daniel Beaglehole\*, Peter Súkeník\*, Marco Mondelli, Mikhail Belkin
-2. [Gradient descent induces alignment between weights and the empirical NTK for deep non-linear networks](https://arxiv.org/abs/2402.05271) \
+2. [Feature learning as alignment: a structural property of gradient descent in non-linear neural networks](https://arxiv.org/abs/2402.05271) \
    Daniel Beaglehole, Ioannis Mitliagkas, Atish Agarwala   
 3. [Mechanism of feature learning in convolutional neural networks](https://arxiv.org/pdf/2309.00570v1.pdf) \
    Daniel Beaglehole\*, Adityanarayanan Radhakrishnan\*, Parthe Pandit, Mikhail Belkin
