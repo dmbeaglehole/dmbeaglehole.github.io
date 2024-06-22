@@ -10,7 +10,7 @@ redirect_from:
 Hello! I am a third-year PhD student in the CSE department at UC San Diego in the [machine learning](https://datascience.ucsd.edu/research/faculty-research-areas/artificial-intelligence-and-machine-learning/) and [theory](https://cstheory.ucsd.edu/home.html) groups. I am very fortunate to be advised by Professor [Mikhail Belkin](http://misha.belkin-wang.org/). Prior to my PhD, I completed an MS in computer science at Columbia, where I researched under the excellent mentorship of Professor [Alexandr Andoni](http://www.cs.columbia.edu/~andoni/). 
 
 
-I am currently a Student Researcher at [Google Brain](https://research.google/teams/brain/) working on feature learning. I was also an ML Research intern at [Goldman Sachs](https://www.goldmansachs.com/careers/divisions/engineering/). 
+I was previously a Student Researcher at Google DeepMind working on feature learning. I was also an ML Research intern at Goldman Sachs. 
 
 I am supported by the [ARCS Foundation Fellowship](https://san-diego.arcsfoundation.org).
 
