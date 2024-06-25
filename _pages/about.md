@@ -34,6 +34,8 @@ Feel free to email me: dbeaglehole {at} ucsd {dot} edu
 4. [Mechanism of feature learning in deep fully connected networks and kernel machines that recursively learn features](https://arxiv.org/abs/2212.13881) \
    Adityanarayanan Radhakrishnan\*, Daniel Beaglehole\*, Parthe Pandit, Mikhail Belkin\
    [(twitter link)](https://twitter.com/dbeagleholeCS/status/1627819164906975232?s=20)
+5. [Fast, optimal, and dynamic electoral campaign budgeting by a generalized Colonel Blotto game](https://arxiv.org/abs/2406.15714)\
+   Thomas Valles, Daniel Beaglehole
    
 
 ### Publications
