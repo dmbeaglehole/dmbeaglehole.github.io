@@ -28,13 +28,15 @@ Feel free to email me: dbeaglehole {at} ucsd {dot} edu
 1. [Average gradient outer product as a mechanism for deep neural collapse](https://arxiv.org/abs/2402.13728) \
    Daniel Beaglehole\*, Peter Súkeník\*, Marco Mondelli, Mikhail Belkin
 2. [Feature learning as alignment: a structural property of gradient descent in non-linear neural networks](https://arxiv.org/abs/2402.05271) \
-   Daniel Beaglehole, Ioannis Mitliagkas, Atish Agarwala   
-3. [Mechanism of feature learning in convolutional neural networks](https://arxiv.org/pdf/2309.00570v1.pdf) \
+   Daniel Beaglehole, Ioannis Mitliagkas, Atish Agarwala
+3. [Emergence in non-neural models: grokking modular arithmetic via average gradient outer product](https://arxiv.org/abs/2407.20199) \
+   Neil Mallinar, Daniel Beaglehole, Libin Zhu, Adityanarayanan Radhakrishnan, Parthe Pandit, Mikhail Belkin
+4. [Mechanism of feature learning in convolutional neural networks](https://arxiv.org/pdf/2309.00570v1.pdf) \
    Daniel Beaglehole\*, Adityanarayanan Radhakrishnan\*, Parthe Pandit, Mikhail Belkin
-4. [Mechanism of feature learning in deep fully connected networks and kernel machines that recursively learn features](https://arxiv.org/abs/2212.13881) \
+5. [Mechanism of feature learning in deep fully connected networks and kernel machines that recursively learn features](https://arxiv.org/abs/2212.13881) \
    Adityanarayanan Radhakrishnan\*, Daniel Beaglehole\*, Parthe Pandit, Mikhail Belkin\
    [(twitter link)](https://twitter.com/dbeagleholeCS/status/1627819164906975232?s=20)
-5. [Fast, optimal, and dynamic electoral campaign budgeting by a generalized Colonel Blotto game](https://arxiv.org/abs/2406.15714)\
+6. [Fast, optimal, and dynamic electoral campaign budgeting by a generalized Colonel Blotto game](https://arxiv.org/abs/2406.15714)\
    Thomas Valles, Daniel Beaglehole
    
 
