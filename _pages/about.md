@@ -17,7 +17,7 @@ I am supported by the [ARCS Foundation Fellowship](https://san-diego.arcsfoundat
 Broadly, I am excited about developing theory-driven machine learning and algorithmic methods. I am especially interested in:  
   1.) Feature learning\
   2.) Deep learning theory\
-  3.) Data-dependent kernels
+  3.) Data-dependent kernel machines
 
 Feel free to email me: dbeaglehole {at} ucsd {dot} edu
 
