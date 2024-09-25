@@ -44,7 +44,7 @@ Feel free to email me: dbeaglehole {at} ucsd {dot} edu
    <i> Science </i>
 2. [Average gradient outer product as a mechanism for deep neural collapse](https://arxiv.org/abs/2402.13728) \
    Daniel Beaglehole\*, Peter Súkeník\*, Marco Mondelli, Mikhail Belkin \
-   Conference on Neural Information Processing Systems (NeurIPS 2024)
+   <i> Conference on Neural Information Processing Systems (NeurIPS 2024) </i>
 3. [On the Inconsistency of Kernel Ridgeless Regression in Fixed Dimensions](https://arxiv.org/abs/2205.13525) \
    Daniel Beaglehole, Mikhail Belkin, Parthe Pandit \
    <i> SIAM Journal on Mathematics of Data Science (SIMODS) </i>,\
