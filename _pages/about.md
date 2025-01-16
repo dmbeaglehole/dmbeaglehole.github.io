@@ -15,9 +15,9 @@ I was previously a Student Researcher at Google DeepMind working on feature lear
 I am supported by the [ARCS Foundation Fellowship](https://san-diego.arcsfoundation.org).
 
 Broadly, I am excited about developing theory-driven machine learning and algorithmic methods. I am especially interested in:  
-  1.) Feature learning\
-  2.) Deep learning theory\
-  3.) Data-dependent kernel machines
+  1.) Feature/representation learning\
+  2.) Optimization in neural networks and linear systems\
+  3.) Deep learning (theory+applications)
 
 Feel free to email me: dbeaglehole {at} ucsd {dot} edu
 
