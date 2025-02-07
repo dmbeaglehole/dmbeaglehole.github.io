@@ -14,7 +14,7 @@ I was previously a Student Researcher at Google DeepMind working on feature lear
 
 I am supported by the [ARCS Foundation Fellowship](https://san-diego.arcsfoundation.org).
 
-Broadly, I am excited about developing theory-driven machine learning and algorithmic methods. I am especially interested in:  
+Broadly, I am excited about developing conceptually-driven machine learning and algorithmic methods. I am especially interested in:  
   1.) Feature/representation learning\
   2.) Deep learning (theory+applications)\
   3.) Optimization in neural networks and linear systems\
