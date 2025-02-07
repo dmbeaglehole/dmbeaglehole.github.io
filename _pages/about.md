@@ -26,12 +26,14 @@ Feel free to email me: dbeaglehole {at} ucsd {dot} edu
 (\* denotes equal contribution).
 
 ### Pre-prints
-1. [Mechanism of feature learning in convolutional neural networks](https://arxiv.org/pdf/2309.00570v1.pdf) \
-   Daniel Beaglehole\*, Adityanarayanan Radhakrishnan\*, Parthe Pandit, Mikhail Belkin
-2. [Mechanism of feature learning in deep fully connected networks and kernel machines that recursively learn features](https://arxiv.org/abs/2212.13881) \
+1. [Aggregate and conquer: detecting and steering LLM concepts by combining nonlinear predictors over multiple layers](https://arxiv.org/abs/2502.03708) \
+   Daniel Beaglehole, Adityanarayanan Radhakrishnan, Enric Boix-Adserà, Mikhail Belkin\
+2. [Mechanism of feature learning in convolutional neural networks](https://arxiv.org/pdf/2309.00570v1.pdf) \
+   Daniel Beaglehole\*, Adityanarayanan Radhakrishnan\*, Parthe Pandit, Mikhail Belkin\
+3. [Mechanism of feature learning in deep fully connected networks and kernel machines that recursively learn features](https://arxiv.org/abs/2212.13881) \
    Adityanarayanan Radhakrishnan\*, Daniel Beaglehole\*, Parthe Pandit, Mikhail Belkin\
    [(twitter link)](https://twitter.com/dbeagleholeCS/status/1627819164906975232?s=20)
-3. [Fast, optimal, and dynamic electoral campaign budgeting by a generalized Colonel Blotto game](https://arxiv.org/abs/2406.15714)\
+4. [Fast, optimal, and dynamic electoral campaign budgeting by a generalized Colonel Blotto game](https://arxiv.org/abs/2406.15714)\
    Thomas Valles, Daniel Beaglehole
    
 
