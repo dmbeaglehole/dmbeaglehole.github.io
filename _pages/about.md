@@ -26,8 +26,8 @@ Feel free to email me: dbeaglehole {at} ucsd {dot} edu
 (\* denotes equal contribution).
 
 ### Pre-prints
-1. [Aggregate and conquer: detecting and steering LLM concepts by combining nonlinear predictors over multiple layers](https://arxiv.org/abs/2502.03708) \
-   Daniel Beaglehole, Adityanarayanan Radhakrishnan, Enric Boix-Adserà, Mikhail Belkin 
+1. [Toward universal steering and monitoring of AI models](https://arxiv.org/abs/2502.03708) \
+   Daniel Beaglehole\*, Adityanarayanan Radhakrishnan\*, Enric Boix-Adserà, Mikhail Belkin 
 2. [Mechanism of feature learning in convolutional neural networks](https://arxiv.org/pdf/2309.00570v1.pdf) \
    Daniel Beaglehole\*, Adityanarayanan Radhakrishnan\*, Parthe Pandit, Mikhail Belkin
 3. [Mechanism of feature learning in deep fully connected networks and kernel machines that recursively learn features](https://arxiv.org/abs/2212.13881) \
@@ -48,9 +48,9 @@ Feel free to email me: dbeaglehole {at} ucsd {dot} edu
    Daniel Beaglehole, Ioannis Mitliagkas, Atish Agarwala \
    <i> Transactions on Machine Learning Research (TMLR) </i> \
    <i> Workshop on High-dimensional Learning Dynamics (HiLD) @ ICML 2024 </i>
-4. [Emergence in non-neural models: grokking modular arithmetic via average gradient outer product](https://arxiv.org/abs/2407.20199) \
-   Neil Mallinar, Daniel Beaglehole, Libin Zhu, Adityanarayanan Radhakrishnan, Parthe Pandit, Mikhail Belkin \
-   <i> International Conference on Machine Learning (ICML 2025) </i> \
+4. Emergence in non-neural models: grokking modular arithmetic via average gradient outer product 
+   Neil Mallinar, Daniel Beaglehole, Libin Zhu, Adityanarayanan Radhakrishnan, Parthe Pandit, Mikhail Belkin 
+   <i> International Conference on Machine Learning (ICML 2025) <span style="color: red;">(Spotlight)</span> </i> 
    <i> Mathematics of Modern Machine Learning (M3L) @ NeurIPS 2024 </i>
 6. [On the Inconsistency of Kernel Ridgeless Regression in Fixed Dimensions](https://arxiv.org/abs/2205.13525) \
    Daniel Beaglehole, Mikhail Belkin, Parthe Pandit \
