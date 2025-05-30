@@ -48,22 +48,22 @@ Feel free to email me: dbeaglehole {at} ucsd {dot} edu
    Daniel Beaglehole, Ioannis Mitliagkas, Atish Agarwala \
    <i> Transactions on Machine Learning Research (TMLR) </i> \
    <i> Workshop on High-dimensional Learning Dynamics (HiLD) @ ICML 2024 </i>
-4. [Emergence in non-neural models: grokking modular arithmetic via average gradient outer product](https://arxiv.org/abs/2407.20199) 
+4. [Emergence in non-neural models: grokking modular arithmetic via average gradient outer product](https://arxiv.org/abs/2407.20199) \
    Neil Mallinar, Daniel Beaglehole, Libin Zhu, Adityanarayanan Radhakrishnan, Parthe Pandit, Mikhail Belkin \
    <i> International Conference on Machine Learning (ICML 2025) <span style="color: red;">(Spotlight)</span> </i> \
    <i> Mathematics of Modern Machine Learning (M3L) @ NeurIPS 2024 </i>
-6. [On the Inconsistency of Kernel Ridgeless Regression in Fixed Dimensions](https://arxiv.org/abs/2205.13525) \
+5. [On the Inconsistency of Kernel Ridgeless Regression in Fixed Dimensions](https://arxiv.org/abs/2205.13525) \
    Daniel Beaglehole, Mikhail Belkin, Parthe Pandit \
    <i> SIAM Journal on Mathematics of Data Science (SIMODS) </i>,\
    <i> Conference on the Mathematical Theory of Deep Neural Networks (DeepMath 2022)</i>
-7. [Sampling Equilibria: Fast No-Regret Learning in Structured Games](https://arxiv.org/abs/2201.10758) \
+6. [Sampling Equilibria: Fast No-Regret Learning in Structured Games](https://arxiv.org/abs/2201.10758) \
    Daniel Beaglehole\*, Max Hopkins\*, Daniel Kane\*, Sihan Liu\*, Shachar Lovett\* \
    <i>Symposium on Discrete Algorithms (SODA 2023)</i> \
    [(twitter link)](https://twitter.com/MHop_Theory/status/1549498127316529153?s=20&t=JiLCC6ZaHli8rUhPP8ZLEA)
    - This began as an earlier version:\
     [An Efficient Approximation Algorithm for the Colonel Blotto Game](https://arxiv.org/abs/2201.10758v6)\
     Daniel Beaglehole
-8. [Learning to Hash Robustly, Guaranteed](https://arxiv.org/abs/2108.05433) \
+7. [Learning to Hash Robustly, Guaranteed](https://arxiv.org/abs/2108.05433) \
    Alexandr Andoni\*, Daniel Beaglehole\* \
    <i>International Conference on Machine Learning (ICML 2022)</i> \
    [(twitter link)](https://twitter.com/thomasahle/status/1428749917384761346) [(presented by Prof. Andoni for NeurIPS'21 ANN competition)](https://big-ann-benchmarks.com/)
