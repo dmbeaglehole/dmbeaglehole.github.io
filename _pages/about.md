@@ -48,9 +48,9 @@ Feel free to email me: dbeaglehole {at} ucsd {dot} edu
    Daniel Beaglehole, Ioannis Mitliagkas, Atish Agarwala \
    <i> Transactions on Machine Learning Research (TMLR) </i> \
    <i> Workshop on High-dimensional Learning Dynamics (HiLD) @ ICML 2024 </i>
-4. Emergence in non-neural models: grokking modular arithmetic via average gradient outer product 
-   Neil Mallinar, Daniel Beaglehole, Libin Zhu, Adityanarayanan Radhakrishnan, Parthe Pandit, Mikhail Belkin 
-   <i> International Conference on Machine Learning (ICML 2025) <span style="color: red;">(Spotlight)</span> </i> 
+4. [Emergence in non-neural models: grokking modular arithmetic via average gradient outer product](https://arxiv.org/abs/2407.20199) 
+   Neil Mallinar, Daniel Beaglehole, Libin Zhu, Adityanarayanan Radhakrishnan, Parthe Pandit, Mikhail Belkin \
+   <i> International Conference on Machine Learning (ICML 2025) <span style="color: red;">(Spotlight)</span> </i> \
    <i> Mathematics of Modern Machine Learning (M3L) @ NeurIPS 2024 </i>
 6. [On the Inconsistency of Kernel Ridgeless Regression in Fixed Dimensions](https://arxiv.org/abs/2205.13525) \
    Daniel Beaglehole, Mikhail Belkin, Parthe Pandit \
