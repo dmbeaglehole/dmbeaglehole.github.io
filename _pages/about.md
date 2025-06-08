@@ -17,7 +17,7 @@ I am supported by the [ARCS Foundation Fellowship](https://san-diego.arcsfoundat
 Broadly, I am excited about developing conceptually-driven machine learning and algorithmic methods. I am especially interested in:  
   1.) Feature/representation learning\
   2.) Deep learning (theory+applications)\
-  3.) Optimization in neural networks and linear systems\
+  3.) Steering and monitoring LLMs
   4.) Tabular/scientific data
 
 Feel free to email me: dbeaglehole {at} ucsd {dot} edu
@@ -50,7 +50,7 @@ Feel free to email me: dbeaglehole {at} ucsd {dot} edu
    <i> Workshop on High-dimensional Learning Dynamics (HiLD) @ ICML 2024 </i>
 4. [Emergence in non-neural models: grokking modular arithmetic via average gradient outer product](https://arxiv.org/abs/2407.20199) \
    Neil Mallinar, Daniel Beaglehole, Libin Zhu, Adityanarayanan Radhakrishnan, Parthe Pandit, Mikhail Belkin \
-   <i> International Conference on Machine Learning (ICML 2025) <span style="color: red;">(Spotlight)</span> </i> \
+   <i> International Conference on Machine Learning (ICML 2025) <span style="color: red;">(Oral)</span> </i> \
    <i> Mathematics of Modern Machine Learning (M3L) @ NeurIPS 2024 </i>
 5. [On the Inconsistency of Kernel Ridgeless Regression in Fixed Dimensions](https://arxiv.org/abs/2205.13525) \
    Daniel Beaglehole, Mikhail Belkin, Parthe Pandit \
