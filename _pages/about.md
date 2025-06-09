@@ -54,7 +54,7 @@ Feel free to email me: dbeaglehole {at} ucsd {dot} edu
    <i> Mathematics of Modern Machine Learning (M3L) @ NeurIPS 2024 </i>
 5. [On the Inconsistency of Kernel Ridgeless Regression in Fixed Dimensions](https://arxiv.org/abs/2205.13525) \
    Daniel Beaglehole, Mikhail Belkin, Parthe Pandit \
-   <i> SIAM Journal on Mathematics of Data Science (SIMODS) </i>,\
+   <i> SIAM Journal on Mathematics of Data Science (SIMODS) </i>\
    <i> Conference on the Mathematical Theory of Deep Neural Networks (DeepMath 2022)</i>
 6. [Sampling Equilibria: Fast No-Regret Learning in Structured Games](https://arxiv.org/abs/2201.10758) \
    Daniel Beaglehole\*, Max Hopkins\*, Daniel Kane\*, Sihan Liu\*, Shachar Lovett\* \
