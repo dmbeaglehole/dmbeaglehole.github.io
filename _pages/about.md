@@ -17,7 +17,7 @@ I am supported by the [ARCS Foundation Fellowship](https://san-diego.arcsfoundat
 Broadly, I am excited about developing conceptually-driven machine learning and algorithmic methods. I am especially interested in:  
   1.) Feature/representation learning\
   2.) Deep learning (theory+applications)\
-  3.) Steering and monitoring LLMs
+  3.) Steering and monitoring LLMs\
   4.) Tabular/scientific data
 
 Feel free to email me: dbeaglehole {at} ucsd {dot} edu
