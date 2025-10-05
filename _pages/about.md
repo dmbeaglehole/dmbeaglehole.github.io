@@ -14,16 +14,16 @@ profile:
     <p>UC San Diego</p>
     <p>dbeaglehole@ucsd.edu</p>
 
-selected_papers: true
+selected_papers: false
 social: true
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 3
 ---
@@ -55,11 +55,3 @@ _\* denotes equal contribution._
 4. [Sampling Equilibria: Fast No-Regret Learning in Structured Games](https://arxiv.org/abs/2201.10758)  \
    Daniel Beaglehole\*, Max Hopkins\*, Daniel Kane\*, Sihan Liu\*, Shachar Lovett\*  \
    _Symposium on Discrete Algorithms (SODA 2023)_
-
-## Presentations
-
-1. Google Brain: "Feature learning in neural networks and kernel machines that recursively learn features" (03/2023)
-2. Yale University: Inference, Information, and Decision Systems Group — "Feature learning in neural networks and kernel machines that recursively learn features" (03/2023)
-3. UC San Diego Theory Seminar: "Learning to Hash Robustly, Guaranteed" (10/2021)
-4. Goldman Sachs Data Science and Machine Learning paper club: "Learning to Hash Robustly, Guaranteed" (07/2021)
-5. Goldman Sachs Summer internship final presentation: "Predictive Clustering Time Series for Finance" (08/2021)
