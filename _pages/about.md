@@ -2,6 +2,8 @@
 layout: about
 title: about
 permalink: /
+nav: true
+nav_order: 1
 subtitle: Machine Learning PhD Student, UC San Diego
 
 profile:
@@ -9,8 +11,8 @@ profile:
   image: portrait2.png
   image_circular: false
   more_info: >
-    <p>Department of Computer Science and Engineering</p>
-    <p>University of California, San Diego</p>
+    <p>Computer Science and Engineering</p>
+    <p>UC San Diego</p>
     <p>dbeaglehole@ucsd.edu</p>
 
 selected_papers: true
@@ -33,9 +35,9 @@ I was previously a Student Researcher at Google DeepMind working on feature lear
 
 Broadly, I am excited about developing conceptually-driven machine learning and algorithmic methods. I am especially interested in:
 
-1. Feature/representation learning  \
-2. Deep learning (theory + applications)  \
-3. Steering and monitoring LLMs  \
+1. Feature/representation learning 
+2. Deep learning (theory + applications)
+3. Steering and monitoring LLMs
 4. Tabular/scientific data
 
 Feel free to reach out via email: `dbeaglehole@ucsd.edu`.
