@@ -4,7 +4,6 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 3
-description: View or download my curriculum vitae.
 ---
 
 <p>
