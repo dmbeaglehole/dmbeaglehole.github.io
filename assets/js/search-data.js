@@ -454,13 +454,6 @@ ninja.data = [{
           window.open("https://twitter.com/dbeagleholeCS", "_blank");
         },
       },{
-        id: 'social-rss_icon',
-        title: 'Rss_icon',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
