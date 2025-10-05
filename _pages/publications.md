@@ -10,16 +10,18 @@ nav_order: 2
 
 ### Preprints
 
-1. [Toward universal steering and monitoring of AI models](https://arxiv.org/abs/2502.03708)  \\
+1. [xRFM: Accurate, scalable, and interpretable feature learning models for tabular data](https://arxiv.org/abs/2508.10053)  \\
+   Daniel Beaglehole, David Holzmüller, Adityanarayanan Radhakrishnan, Mikhail Belkin
+2. [Toward universal steering and monitoring of AI models](https://arxiv.org/abs/2502.03708)  \\
    Daniel Beaglehole\*, Adityanarayanan Radhakrishnan\*, Enric Boix-Adserà, Mikhail Belkin
-2. [Mechanism of feature learning in convolutional neural networks](https://arxiv.org/pdf/2309.00570v1.pdf)  \\
+3. [Mechanism of feature learning in convolutional neural networks](https://arxiv.org/pdf/2309.00570v1.pdf)  \\
    Daniel Beaglehole\*, Adityanarayanan Radhakrishnan\*, Parthe Pandit, Mikhail Belkin
-3. [Mechanism of feature learning in deep fully connected networks and kernel machines that recursively learn features](https://arxiv.org/abs/2212.13881)  \\
+4. [Mechanism of feature learning in deep fully connected networks and kernel machines that recursively learn features](https://arxiv.org/abs/2212.13881)  \\
    Adityanarayanan Radhakrishnan\*, Daniel Beaglehole\*, Parthe Pandit, Mikhail Belkin  \\
    [(twitter link)](https://twitter.com/dbeagleholeCS/status/1627819164906975232?s=20)
-4. [CAPYBARA: A Generalizable Framework for Predicting Serological Measurements Across Human Cohorts](https://www.medrxiv.org/content/10.1101/2025.07.07.25331040v1)  \\
+5. [CAPYBARA: A Generalizable Framework for Predicting Serological Measurements Across Human Cohorts](https://www.medrxiv.org/content/10.1101/2025.07.07.25331040v1)  \\
    Sierra Orsinelli-Rivers, Daniel Beaglehole, Tal Einav
-5. [Fast, optimal, and dynamic electoral campaign budgeting by a generalized Colonel Blotto game](https://arxiv.org/abs/2406.15714)  \\
+6. [Fast, optimal, and dynamic electoral campaign budgeting by a generalized Colonel Blotto game](https://arxiv.org/abs/2406.15714)  \\
    Thomas Valles, Daniel Beaglehole
 
 ### Publications
