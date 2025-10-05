@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 nav: false
-subtitle: Machine Learning PhD Student, UC San Diego
 
 profile:
   align: right
