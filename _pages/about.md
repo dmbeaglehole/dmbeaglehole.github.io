@@ -11,7 +11,6 @@ profile:
   more_info: >
     <p>Computer Science and Engineering</p>
     <p>UC San Diego</p>
-    <p>dbeaglehole@ucsd.edu</p>
 
 selected_papers: false
 social: true

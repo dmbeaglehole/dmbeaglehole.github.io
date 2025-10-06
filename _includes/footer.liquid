@@ -11,10 +11,37 @@
   {% endif %}
 {% endcapture %}
 
+{% capture footer_utilities %}
+  {% if site.search_enabled or site.enable_darkmode %}
+    <div class="footer-utilities mt-3">
+      <div class="d-flex flex-wrap align-items-center">
+        {% if site.search_enabled %}
+          <button
+            id="search-toggle"
+            class="btn btn-link p-0 mr-3"
+            title="Search"
+            onclick="openSearchModal()"
+          >
+            Search <i class="ti ti-search"></i>
+          </button>
+        {% endif %}
+        {% if site.enable_darkmode %}
+          <button id="light-toggle" class="btn btn-link p-0" title="Change theme">
+            <i class="ti ti-sun-moon" id="light-toggle-system"></i>
+            <i class="ti ti-moon-filled" id="light-toggle-dark"></i>
+            <i class="ti ti-sun-filled" id="light-toggle-light"></i>
+          </button>
+        {% endif %}
+      </div>
+    </div>
+  {% endif %}
+{% endcapture %}
+
 {% if site.footer_fixed %}
   <footer class="fixed-bottom" role="contentinfo">
     <div class="container mt-0">
       {{ footer_contents }}
+      {{ footer_utilities }}
     </div>
   </footer>
 {% else %}
@@ -25,6 +52,7 @@
 
     <div class="container">
       {{ footer_contents }}
+      {{ footer_utilities }}
     </div>
   </footer>
 {% endif %}
