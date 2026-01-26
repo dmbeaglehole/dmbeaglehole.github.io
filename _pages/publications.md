@@ -28,7 +28,7 @@ nav_order: 2
    Adityanarayanan Radhakrishnan\*, Daniel Beaglehole\*, Parthe Pandit, Mikhail Belkin  \\
    _Science_
 2. [xRFM: Accurate, scalable, and interpretable feature learning models for tabular data](https://arxiv.org/abs/2508.10053)  \\
-   Daniel Beaglehole, David Holzmüller, Adityanarayanan Radhakrishnan, Mikhail Belkin
+   Daniel Beaglehole, David Holzmüller, Adityanarayanan Radhakrishnan, Mikhail Belkin \\
    _International Conference on Learning Representations (ICLR 2026)_
 4. [Average gradient outer product as a mechanism for deep neural collapse](https://arxiv.org/abs/2402.13728)  \\
    Daniel Beaglehole\*, Peter Súkeník\*, Marco Mondelli, Mikhail Belkin  \\
