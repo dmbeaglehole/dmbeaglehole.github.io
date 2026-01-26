@@ -54,5 +54,5 @@ nav_order: 2
    _International Conference on Machine Learning (ICML 2022)_  \\
    [(twitter link)](https://twitter.com/thomasahle/status/1428749917384761346)
 10. Steering Autoregressive Music Generation with Recursive Feature Machines \\
-    Daniel Zhao, Daniel Beaglehole, Taylor Berg-Kirkpatrick, Julian McAuley, Zachary Novack
+    Daniel Zhao, Daniel Beaglehole, Taylor Berg-Kirkpatrick, Julian McAuley, Zachary Novack \\
     _International Conference on Learning Representations (ICLR 2026)_
