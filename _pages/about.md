@@ -48,8 +48,9 @@ _\* denotes equal contribution._
    _Science_
 2. [xRFM: Accurate, scalable, and interpretable feature learning models for tabular data](https://arxiv.org/abs/2508.10053)  \
    Daniel Beaglehole, David Holzmüller, Adityanarayanan Radhakrishnan, Mikhail Belkin
-3. [Toward universal steering and monitoring of AI models](https://arxiv.org/abs/2502.03708)  \
+   _International Conference on Learning Representations (ICLR 2026)_
+4. [Toward universal steering and monitoring of AI models](https://arxiv.org/abs/2502.03708)  \
    Daniel Beaglehole\*, Adityanarayanan Radhakrishnan\*, Enric Boix-Adserà, Mikhail Belkin
-4. [Sampling Equilibria: Fast No-Regret Learning in Structured Games](https://arxiv.org/abs/2201.10758)  \
+5. [Sampling Equilibria: Fast No-Regret Learning in Structured Games](https://arxiv.org/abs/2201.10758)  \
    Daniel Beaglehole\*, Max Hopkins\*, Daniel Kane\*, Sihan Liu\*, Shachar Lovett\*  \
    _Symposium on Discrete Algorithms (SODA 2023)_
