@@ -53,6 +53,6 @@ nav_order: 2
    Alexandr Andoni\*, Daniel Beaglehole\*  \\
    _International Conference on Machine Learning (ICML 2022)_  \\
    [(twitter link)](https://twitter.com/thomasahle/status/1428749917384761346)
-10. Steering Autoregressive Music Generation with Recursive Feature Machines \\
+10. [Steering Autoregressive Music Generation with Recursive Feature Machines](https://astradzhao.github.io/MusicRFMPage/) \\
     Daniel Zhao, Daniel Beaglehole, Taylor Berg-Kirkpatrick, Julian McAuley, Zachary Novack \\
     _International Conference on Learning Representations (ICLR 2026)_
