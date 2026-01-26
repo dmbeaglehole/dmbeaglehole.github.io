@@ -47,7 +47,7 @@ _\* denotes equal contribution._
    Adityanarayanan Radhakrishnan\*, Daniel Beaglehole\*, Parthe Pandit, Mikhail Belkin  \
    _Science_
 2. [xRFM: Accurate, scalable, and interpretable feature learning models for tabular data](https://arxiv.org/abs/2508.10053)  \
-   Daniel Beaglehole, David Holzmüller, Adityanarayanan Radhakrishnan, Mikhail Belkin
+   Daniel Beaglehole, David Holzmüller, Adityanarayanan Radhakrishnan, Mikhail Belkin \
    _International Conference on Learning Representations (ICLR 2026)_
 4. [Toward universal steering and monitoring of AI models](https://arxiv.org/abs/2502.03708)  \
    Daniel Beaglehole\*, Adityanarayanan Radhakrishnan\*, Enric Boix-Adserà, Mikhail Belkin
