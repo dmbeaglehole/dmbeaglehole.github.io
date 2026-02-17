@@ -6,7 +6,7 @@ nav: false
 
 profile:
   align: right
-  image: portrait2.png
+  image: portrait.jpg
   image_circular: false
   more_info: >
     <p>Computer Science and Engineering</p>
