@@ -50,7 +50,7 @@ _\* denotes equal contribution._
    Daniel Beaglehole, David Holzmüller, Adityanarayanan Radhakrishnan, Mikhail Belkin \
    _International Conference on Learning Representations (ICLR 2026)_
 4. [Toward universal steering and monitoring of AI models](https://www.science.org/doi/10.1126/science.aea6792)  \
-   Daniel Beaglehole\*, Adityanarayanan Radhakrishnan\*, Enric Boix-Adserà, Mikhail Belkin
+   Daniel Beaglehole\*, Adityanarayanan Radhakrishnan\*, Enric Boix-Adserà, Mikhail Belkin \
    _Science_
 6. [Sampling Equilibria: Fast No-Regret Learning in Structured Games](https://arxiv.org/abs/2201.10758)  \
    Daniel Beaglehole\*, Max Hopkins\*, Daniel Kane\*, Sihan Liu\*, Shachar Lovett\*  \
