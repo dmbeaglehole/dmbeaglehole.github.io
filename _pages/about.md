@@ -9,7 +9,7 @@ profile:
   image: portrait.jpg
   image_circular: false
   more_info: >
-    <p>Cofounder, <a href="https://outerproduct.com">OuterProduct</a></p>
+    <p>Co-founder, <a href="https://outerproduct.com">OuterProduct</a></p>
 
 selected_papers: false
 social: true
@@ -25,7 +25,7 @@ latest_posts:
   limit: 3
 ---
 
-Hello! I am a cofounder at [OuterProduct](https://outerproduct.com). I completed my PhD in the CSE department at UC San Diego in the [machine learning](https://datascience.ucsd.edu/research/faculty-research-areas/artificial-intelligence-and-machine-learning/) and [theory](https://cstheory.ucsd.edu/home.html) groups, where I was very fortunate to be advised by Professor [Mikhail Belkin](http://misha.belkin-wang.org/). Prior to my PhD, I completed an MS in computer science at Columbia University, where I researched under the excellent mentorship of Professor [Alexandr Andoni](http://www.cs.columbia.edu/~andoni/).
+Hello! I am a co-founder at [OuterProduct](https://outerproduct.com). I completed my PhD in the CSE department at UC San Diego in the [machine learning](https://datascience.ucsd.edu/research/faculty-research-areas/artificial-intelligence-and-machine-learning/) and [theory](https://cstheory.ucsd.edu/home.html) groups, where I was very fortunate to be advised by Professor [Mikhail Belkin](http://misha.belkin-wang.org/). Prior to my PhD, I completed an MS in computer science at Columbia University, where I researched under the excellent mentorship of Professor [Alexandr Andoni](http://www.cs.columbia.edu/~andoni/).
 
 I was previously a Student Researcher at Google DeepMind working on feature learning and an ML Research intern at Goldman Sachs. I am supported by the [ARCS Foundation Fellowship](https://san-diego.arcsfoundation.org).
 
